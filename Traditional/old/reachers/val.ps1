@@ -1,0 +1,2 @@
+Invoke-Expression "scp -i ~/.ssh/carlosv_nvirginia.pem val.py ubuntu@${env:SERVER_ADDRESS}:val.py"
+Invoke-Expression "scp -i ~/.ssh/carlosv_nvirginia.pem best_model.h5 ubuntu@${env:SERVER_ADDRESS}:val_model.h5"

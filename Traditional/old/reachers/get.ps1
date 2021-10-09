@@ -1,0 +1,1 @@
+Invoke-Expression "scp -i ~/.ssh/carlosv_nvirginia.pem ubuntu@${env:SERVER_ADDRESS}:best_model.h5 best_model.h5"

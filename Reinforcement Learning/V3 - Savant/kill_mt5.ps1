@@ -1,0 +1,1 @@
+taskkill /F /IM terminal64.exe /T 

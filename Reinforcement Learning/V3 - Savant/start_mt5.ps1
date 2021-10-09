@@ -1,0 +1,1 @@
+start 'C:\Users\imado\AppData\Roaming\MetaTrader 5 - EXNESS\terminal64.exe' /config:'H:\imado\Personal Projects\RL\Savant\mt5_config.ini'

@@ -1,0 +1,1 @@
+Invoke-Expression "ssh -i ~/.ssh/carlosv_nvirginia.pem ubuntu@${env:SERVER_ADDRESS}"
